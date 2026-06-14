@@ -24,5 +24,3 @@ This Power BI project analyzes Blinkit's sales performance, customer satisfactio
 - Power Query
 - DAX
 - Excel
-- BlinkIT Grocery Data.xlsx
-- Blinkit Analysis.pptx
